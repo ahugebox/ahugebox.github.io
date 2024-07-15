@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Technical Writer II and Tech Journalist
 
-<img align="right" width="300" height="300" style={{marginLeft: 20}} src="/img/me.png" />
+<img align="right" width="300" height="300" style={{marginLeft: 20, border: 'solid black'}} src="/img/me.png" />
 
 Hello! I’m Tristan Perona, a Michigan-based Technical Writer II.
 I graduated from San Francisco State University in May of 2022.
@@ -16,7 +16,7 @@ You can access my writing samples using the sidebar.
 
 Here's a bit of my experience:
 
-- 8+ end user guides
+- 9+ end user guides
 - 50+ job aids
 - 80+ quick reference cards
 - 10+ architecture diagrams
