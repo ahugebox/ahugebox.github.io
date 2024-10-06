@@ -3,13 +3,13 @@ sidebar_label: "Overview"
 sidebar_position: 1
 ---
 
-# Technical Writer II and Tech Journalist
+# Lead Technical Writer and Tech Journalist
 
 <img align="right" width="300" height="300" style={{marginLeft: 20, border: 'solid black'}} src="/img/me.png" />
 
-Hello! I’m Tristan Perona, a Michigan-based Technical Writer II.
+Hello! I’m Tristan Perona, an Oregon-based Lead Technical Writer.
 I graduated from San Francisco State University in May of 2022.
-I have about two years of experience creating end user, developer documentation, and tech journalism.
+I have about two years of experience creating end user, developer documentation, and tech journalism with 4 years total in the writing industry.
 
 Welcome to my portfolio! I created this site in Docusaurus.
 You can access my writing samples using the sidebar.
